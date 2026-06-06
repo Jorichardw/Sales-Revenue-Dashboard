@@ -2,7 +2,7 @@
         An interactive corporate sales analytics dashboard built using Microsoft Excel during my internship project. 
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Dashboard.png)
 
 ## 🔑 Key Features Included
 -->Dynamic KPI Cards**: Tracks overall revenue (`₹ 3,375.00`) dynamically linked to data
