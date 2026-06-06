@@ -7,8 +7,11 @@
 ## 🔑 Key Features Included
 -->Dynamic KPI Cards**: Tracks overall revenue (`₹ 3,375.00`) dynamically linked to data
 changes.
+
 -->Three-Tier Architecture**: Built with distinct `Data`, `Calculations`, and `Dashboard` layers for optimal file management.
+
 -->Interactive Filtering**: Linked cross-chart Slicers allowing reviewers to filter by Product Category and Order Date concurrently.
+
 -->Clean corporate formatting**: Gridlines removed and native chart clutter stripped for an executive-level presentation layout.
 
 ## 🛠️ How to Review
