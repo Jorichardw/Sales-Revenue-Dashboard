@@ -1,20 +1,40 @@
-# Executive Sales Performance Dashboard
-        An interactive corporate sales analytics dashboard built using Microsoft Excel during my internship project. 
+# Customer Segmentation using Power BI
 
-## 📊 Dashboard Preview
-![Dashboard Preview](Dashboard.png)
+## Objective
+Segment customers based on their demographic and spending behavior using Power BI clustering techniques.
 
-## 🔑 Key Features Included
--->Dynamic KPI Cards**: Tracks overall revenue (`₹ 3,375.00`) dynamically linked to data
-changes.
+# --> Dataset
+- Mall Customers Dataset
+- 200 customer records
 
--->Three-Tier Architecture**: Built with distinct `Data`, `Calculations`, and `Dashboard` layers for optimal file management.
+# --> Tools Used
+- Power BI Desktop
+- Microsoft Excel/CSV
+- GitHub
 
--->Interactive Filtering**: Linked cross-chart Slicers allowing reviewers to filter by Product Category and Order Date concurrently.
+# --> Methodology
+1. Imported and cleaned the dataset.
+2. Performed exploratory data analysis.
+3. Created visualizations:
+   - Gender Distribution
+   - Age Distribution
+   - Income vs Spending Scatter Plot
+4. Applied clustering to segment customers.
+5. Analyzed customer characteristics by cluster.
 
--->Clean corporate formatting**: Gridlines removed and native chart clutter stripped for an executive-level presentation layout.
+# --> Dashboard Visualizations
+- Gender Distribution
+- Age Distribution
+- Scatter Plot with Clusters
+- Average Income by Cluster
+- Average Spending Score by Cluster
+- Average Age by Cluster
 
-## 🛠️ How to Review
-1. Click the **Final_Sales_Performance_Dashboard.xlsx** file in the repository list above.
-2. Click the **Download raw file** button down arrow to save it locally.
-3. Open in Microsoft Excel to test interactive Slicer functionality.
+# --> Key Insights
+- High-income, high-spending customers are suitable targets for premium offerings.
+- High-income, low-spending customers may respond to targeted promotions.
+- Lower-income segments may benefit from value-based strategies.
+
+## Dashboard Preview
+
+![Dashboard](Dasboard_for_CS.png)
